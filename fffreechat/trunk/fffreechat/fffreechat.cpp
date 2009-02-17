@@ -8,4 +8,4 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 {
 	MessageBoxA(0,"SVN Test", "SVN Test", 0);	
 	return 0;
-};
+}; //Комментарии на русском

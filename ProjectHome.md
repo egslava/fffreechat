@@ -1,0 +1,1 @@
+The third-dimension graphics-based chat. ocial activities at locations of Final Fantasy 8.
